@@ -10,7 +10,9 @@
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,py,mysql,godot,selenium,)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=slack,jira,trello,)](https://skillicons.dev)
-
+***
+## Currently on...
+![IBM Full stack Course](https://img.shields.io/badge/Learning-Full Stack Development-skygreen)
 
 
 <!--
