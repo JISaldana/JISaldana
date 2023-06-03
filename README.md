@@ -13,6 +13,7 @@
 ***
 ## Currently on...
 ![IBM Full stack Course](https://img.shields.io/badge/Learning-Full_Stack_Development-skygreen)
+![Videogame Proyect](https://img.shields.io/badge/Working-on personal Proyect-green)
 
 
 <!--
