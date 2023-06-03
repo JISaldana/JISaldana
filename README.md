@@ -2,7 +2,11 @@
 
 **`QA Automator Engineer | Fan of technology and video games`**
 
--🤖 I am a Junior QA Tester with recent experience in test automation. My passion for technology led me to choose a career in the field of computer science, and I decided to enter the testing area because of my curiosity and great attention to detail. Currently, I am expanding my knowledge in different types of testing to advance my professional career.
+- 🤖 I'm a Junior QA Tester with recent experience in test automation. My passion for technology led me to choose a career in the field of computer science, and I decided to enter the testing area because of my curiosity and great attention to detail.
+
+- 🌱 Currently, I am expanding my knowledge in different types of testing to advance my professional career.  In the future I would like to learn about video game development and testing
+
+- 🔎 If you want to reach me you can find me on "[Linkedin][https://www.linkedin.com/in/jisaldana/]"
 
 
 <!--
