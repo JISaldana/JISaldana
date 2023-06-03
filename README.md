@@ -12,8 +12,8 @@
 [![My Tools](https://skillicons.dev/icons?i=slack,jira,trello,)](https://skillicons.dev)
 ***
 ## Currently on...
-![IBM Full stack Course](https://img.shields.io/badge/Learning-Full_Stack_Development-skygreen)
-![Videogame Proyect](https://img.shields.io/badge/Working-on personal Proyect-green)
+![IBM Full stack Course](https://img.shields.io/badge/Learning-Full_Stack_Development-blue)
+![Videogame Proyect](https://img.shields.io/badge/Working-On_a_personal_proyect-green)
 
 
 <!--
