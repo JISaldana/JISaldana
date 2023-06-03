@@ -8,7 +8,7 @@
 - 🔎 If you want to reach me you can find me on [Linkedin](https://www.linkedin.com/in/jisaldana/).
 ***
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,selenium,wasm)](https://skillicons.dev)
 
 
 
