@@ -12,7 +12,7 @@
 [![My Tools](https://skillicons.dev/icons?i=slack,jira,trello,)](https://skillicons.dev)
 ***
 ## Currently on...
-![IBM Full stack Course](https://img.shields.io/badge/Learning-Full Stack Development-skygreen)
+![IBM Full stack Course](https://img.shields.io/badge/Learning-Full_Stack_Development-skygreen)
 
 
 <!--
