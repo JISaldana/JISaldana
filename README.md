@@ -6,7 +6,7 @@
 
 - 🌱 Currently, I am expanding my knowledge in different types of testing to advance my professional career.  In the future I would like to learn about video game development and testing
 
-- 🔎 If you want to reach me you can find me on "[Linkedin][Linkedin: JISaldana]"
+- 🔎 If you want to reach me you can find me on "[Linkedin](https://www.linkedin.com/in/jisaldana/)"
 
 
 <!--
