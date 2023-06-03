@@ -2,7 +2,9 @@
 
 **`QA Automator Engineer | Fan of technology and video games`**
 
-### Hi there 👋
+### 🤖
+I am a Junior QA Tester with recent experience in test automation. My passion for technology led me to choose a career in the field of computer science, and I decided to enter the testing area because of my curiosity and great attention to detail. Currently, I am expanding my knowledge in different types of testing to advance my professional career.
+
 
 <!--
 **JISaldana/JISaldana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
