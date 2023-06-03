@@ -1,6 +1,6 @@
 # 🧑 Juan I. Saldaña
 
-**`QA Automator Engineer | Technology & Video Games Fan`**
+**`QA Automator Engineer | Fan of technology and video games`**
 
 ### Hi there 👋
 
