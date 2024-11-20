@@ -1,20 +1,20 @@
 # 🧑 Juan I. Saldaña
-**`QA Automator Engineer | Fan of technology and video games`**
+**`Certified QA Automator Engineer | Fan of technology and video games`**
 ***
 ## About Me:
-- 🤖 I'm a QA Tester graduated from "[Jovenes a Programar](https://jovenesaprogramar.edu.uy)" in 2022 with experience in test automation. 
-- 🌱 Currently, I am expanding my knowledge in different types of testing to advance my professional career and in the future I would like to learn about video game development and testing.
-- 💖 Due to my passion for video games since I was a child, I also developed a love for technology. I embarked on my computing journey, delving into hardware and challenging myself with a project to build my own  gaming PC piece by piece. Inspired by this experience, I decided to dive deeper into software development, and now I find myself in a fulfilling career where continuous learning is the norm.
+- 🤖 My name is Juan, I'm a technology enthusiast with experience in various programming languages, knowledge in video game development, and certified as a junior automated QA Tester.
+- 💖 My childhood passion for video games ignited my love for technology, sparking a journey into computing. I began by exploring hardware and challenging myself to build my own gaming PC from scratch. This experience inspired me to delve deeper into software development, leading to a rewarding career where continuous learning is at the heart of what I do.
+- 🌱 I am currently studying video game development and contributing on projects where I occasionally work as a tester.
 - 🔎 If you want to reach me you can find me on [Linkedin](https://www.linkedin.com/in/jisaldana/).
 ***
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,godot,selenium,)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=slack,jira,trello,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,java,py,git,selenium,powershell,gamemakerstudio,godot,unity&perline=5)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=slack,jira,trello,github,idea)](https://skillicons.dev)
 ***
 ## Currently on...
-### 📚 ![IBM Full stack Course](https://img.shields.io/badge/Learning-Full_Stack_Development-blue)
-### 🔨 ![Videogame Proyect](https://img.shields.io/badge/Working-On_a_personal_proyect-green)
-### 😄 ![Enjoying](https://img.shields.io/badge/Enjoying-My_life-purple)
+### 📚 ![Learning](https://img.shields.io/badge/Learning-Videogame Development-blue)
+### 🔨 ![Proyect](https://img.shields.io/badge/Working-Currently on two Projects-green)
+### 😄 ![Enjoying](https://img.shields.io/badge/Enjoying-Everyday-purple)
  
 
 <!--
