@@ -8,12 +8,12 @@
 - 🔎 If you want to reach me you can find me on [Linkedin](https://www.linkedin.com/in/jisaldana/).
 ***
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,java,py,git,selenium,powershell,gamemakerstudio,godot,unity&perline=5)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=slack,jira,trello,github,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,selenium,mysql,java,py,powershell)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=slack,jira,pycharm,idea,github,godot,unity,gamemakerstudio)](https://skillicons.dev)
 ***
 ## Currently on...
-### 📚 ![Learning](https://img.shields.io/badge/Learning-Videogame Development-blue)
-### 🔨 ![Proyect](https://img.shields.io/badge/Working-Currently on two Projects-green)
+### 📚 ![Learning](https://img.shields.io/badge/Learning-Videogame_Development-blue)
+### 🔨 ![Proyect](https://img.shields.io/badge/Working-Currently_on_two_Projects-green)
 ### 😄 ![Enjoying](https://img.shields.io/badge/Enjoying-Everyday-purple)
  
 
