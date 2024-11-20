@@ -8,8 +8,10 @@
 - 🔎 If you want to reach me you can find me on [Linkedin](https://www.linkedin.com/in/jisaldana/).
 ***
 ## Languages and Tools
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,selenium,mysql,java,py,powershell)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=slack,jira,pycharm,idea,github,godot,unity,gamemakerstudio)](https://skillicons.dev)
+### Tools
+[![My Tools](https://skillicons.dev/icons?i=pycharm,idea,github,godot,unity,gamemakerstudio)](https://skillicons.dev)
 ***
 ## Currently on...
 ### 📚 ![Learning](https://img.shields.io/badge/Learning-Videogame_Development-blue)
