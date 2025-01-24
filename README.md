@@ -1,5 +1,5 @@
 # 🧑 Juan I. Saldaña
-**`Certified QA Automator Engineer | Fan of technology and video games`**
+**`Certified QA Automator & IT Support | Fan of technology and video games`**
 ***
 ## About Me:
 - 🤖 My name is Juan, I'm a technology enthusiast with experience in various programming languages, knowledge in video game development, and certified as a junior automated QA Tester.
